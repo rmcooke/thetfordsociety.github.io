@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Thetford Society
 
 You can use the [editor on GitHub](https://github.com/rmcooke/thetfordsociety.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
